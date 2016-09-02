@@ -1,0 +1,9 @@
+c:\users\usuario\documents\visual studio 2012\Projects\Aplicacion.02\Aplicacion.02\bin\Debug\Aplicacion.02.exe.config
+C:\Users\usuario\Documents\Visual Studio 2012\Projects\Aplicacion.02\Aplicacion.02\obj\Debug\Aplicacion.02.csprojResolveAssemblyReference.cache
+C:\Users\usuario\Documents\Visual Studio 2012\Projects\Aplicacion.02\Aplicacion.02\obj\Debug\Aplicacion._02.Form1.resources
+C:\Users\usuario\Documents\Visual Studio 2012\Projects\Aplicacion.02\Aplicacion.02\obj\Debug\Aplicacion._02.Properties.Resources.resources
+C:\Users\usuario\Documents\Visual Studio 2012\Projects\Aplicacion.02\Aplicacion.02\obj\Debug\Aplicacion.02.csproj.GenerateResource.Cache
+C:\Users\usuario\Documents\Visual Studio 2012\Projects\Aplicacion.02\Aplicacion.02\bin\Debug\Aplicacion.02.exe
+C:\Users\usuario\Documents\Visual Studio 2012\Projects\Aplicacion.02\Aplicacion.02\bin\Debug\Aplicacion.02.pdb
+C:\Users\usuario\Documents\Visual Studio 2012\Projects\Aplicacion.02\Aplicacion.02\obj\Debug\Aplicacion.02.exe
+C:\Users\usuario\Documents\Visual Studio 2012\Projects\Aplicacion.02\Aplicacion.02\obj\Debug\Aplicacion.02.pdb
