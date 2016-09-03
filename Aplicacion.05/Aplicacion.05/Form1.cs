@@ -29,45 +29,7 @@ namespace Aplicacion._05
 
         private void txtNumero_Enter(object sender, EventArgs e)
         {
-
-       /*     //Cantidad de cifras
-            this.txtCantCifras.Text = txtNumero.Text.Count().ToString();
-
-            //Suma de cifras Pares e impares
-            int contPar = 0;
-            int contImp = 0;
-            foreach (int item in this.txtNumero.Text)
-            {
-                if (item % 2 == 0)
-                {
-                    contPar++;
-                }
-                else
-                {
-                    contImp++;
-                }
-
-            }
-
-            this.txtPares.Text = contPar.ToString();
-            this.txtImpares.Text = contImp.ToString();
-
-            //Suma total de cifras
-            int suma = 0;
-            foreach (int item in this.txtNumero.Text)
-            {
-                suma += item;
-            }
-
-            this.txtTotal.Text = suma.ToString();
-
-            //Cifra mayor
-     /*       char[] caracteres = this.txtNumero.Text.ToArray();
-            Array.Sort(caracteres);
-            this.txtMenor.Text = caracteres[1].ToString();
-            Array.Reverse(caracteres);
-            this.txtMayor.Text = caracteres[1].ToString();*/
-            
+         
         }
 
         private void Form1_Load(object sender, EventArgs e)
@@ -80,6 +42,7 @@ namespace Aplicacion._05
         private void btnCancelar_Click(object sender, EventArgs e)
         {
             Numero num = new Numero(this.IngresoNumero());
+            this.CompletaFormulario(num);
         }
 
         private int IngresoNumero()

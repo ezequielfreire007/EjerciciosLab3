@@ -92,7 +92,7 @@ namespace Aplicacion._05
             Array.Reverse(cantidad);
 
             //Tomo el primer valor que es el mayor
-            retorno = cantidad[1];
+            retorno = int.Parse(cantidad[0].ToString());
 
             return retorno;
         }
@@ -106,7 +106,7 @@ namespace Aplicacion._05
             Array.Sort(cantidad);
 
             //Tomo el primer valor que es el menor
-            retorno = cantidad[1];
+            retorno = int.Parse(cantidad[0].ToString());
             
             return retorno;
         }
