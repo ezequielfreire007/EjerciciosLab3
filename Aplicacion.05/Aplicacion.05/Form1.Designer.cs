@@ -30,25 +30,25 @@
         {
             System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(Form1));
             this.groupBox1 = new System.Windows.Forms.GroupBox();
+            this.txtNumero = new System.Windows.Forms.TextBox();
+            this.label1 = new System.Windows.Forms.Label();
             this.groupBox2 = new System.Windows.Forms.GroupBox();
+            this.txtMenor = new System.Windows.Forms.TextBox();
+            this.txtMayor = new System.Windows.Forms.TextBox();
+            this.txtTotal = new System.Windows.Forms.TextBox();
+            this.txtPares = new System.Windows.Forms.TextBox();
+            this.txtImpares = new System.Windows.Forms.TextBox();
+            this.txtCantCifras = new System.Windows.Forms.TextBox();
+            this.label7 = new System.Windows.Forms.Label();
+            this.label6 = new System.Windows.Forms.Label();
+            this.label5 = new System.Windows.Forms.Label();
+            this.label4 = new System.Windows.Forms.Label();
+            this.label3 = new System.Windows.Forms.Label();
+            this.label2 = new System.Windows.Forms.Label();
             this.groupBox3 = new System.Windows.Forms.GroupBox();
+            this.listBox1 = new System.Windows.Forms.ListBox();
             this.btnLimpiar = new System.Windows.Forms.Button();
             this.btnCancelar = new System.Windows.Forms.Button();
-            this.label1 = new System.Windows.Forms.Label();
-            this.txtNumero = new System.Windows.Forms.TextBox();
-            this.label2 = new System.Windows.Forms.Label();
-            this.label3 = new System.Windows.Forms.Label();
-            this.label4 = new System.Windows.Forms.Label();
-            this.label5 = new System.Windows.Forms.Label();
-            this.label6 = new System.Windows.Forms.Label();
-            this.label7 = new System.Windows.Forms.Label();
-            this.listBox1 = new System.Windows.Forms.ListBox();
-            this.txtCantCifras = new System.Windows.Forms.TextBox();
-            this.txtImpares = new System.Windows.Forms.TextBox();
-            this.txtPares = new System.Windows.Forms.TextBox();
-            this.txtTotal = new System.Windows.Forms.TextBox();
-            this.txtMayor = new System.Windows.Forms.TextBox();
-            this.txtMenor = new System.Windows.Forms.TextBox();
             this.groupBox1.SuspendLayout();
             this.groupBox2.SuspendLayout();
             this.groupBox3.SuspendLayout();
@@ -63,6 +63,23 @@
             this.groupBox1.Size = new System.Drawing.Size(240, 58);
             this.groupBox1.TabIndex = 0;
             this.groupBox1.TabStop = false;
+            // 
+            // txtNumero
+            // 
+            this.txtNumero.Location = new System.Drawing.Point(116, 16);
+            this.txtNumero.Name = "txtNumero";
+            this.txtNumero.Size = new System.Drawing.Size(106, 20);
+            this.txtNumero.TabIndex = 1;
+            this.txtNumero.Enter += new System.EventHandler(this.txtNumero_Enter);
+            // 
+            // label1
+            // 
+            this.label1.AutoSize = true;
+            this.label1.Location = new System.Drawing.Point(6, 19);
+            this.label1.Name = "label1";
+            this.label1.Size = new System.Drawing.Size(104, 13);
+            this.label1.TabIndex = 0;
+            this.label1.Text = "Ingresar un número: ";
             // 
             // groupBox2
             // 
@@ -84,6 +101,102 @@
             this.groupBox2.TabIndex = 1;
             this.groupBox2.TabStop = false;
             // 
+            // txtMenor
+            // 
+            this.txtMenor.Location = new System.Drawing.Point(145, 170);
+            this.txtMenor.Name = "txtMenor";
+            this.txtMenor.Size = new System.Drawing.Size(77, 20);
+            this.txtMenor.TabIndex = 11;
+            // 
+            // txtMayor
+            // 
+            this.txtMayor.Location = new System.Drawing.Point(145, 140);
+            this.txtMayor.Name = "txtMayor";
+            this.txtMayor.Size = new System.Drawing.Size(77, 20);
+            this.txtMayor.TabIndex = 10;
+            // 
+            // txtTotal
+            // 
+            this.txtTotal.Location = new System.Drawing.Point(145, 109);
+            this.txtTotal.Name = "txtTotal";
+            this.txtTotal.Size = new System.Drawing.Size(77, 20);
+            this.txtTotal.TabIndex = 9;
+            // 
+            // txtPares
+            // 
+            this.txtPares.Location = new System.Drawing.Point(145, 80);
+            this.txtPares.Name = "txtPares";
+            this.txtPares.Size = new System.Drawing.Size(77, 20);
+            this.txtPares.TabIndex = 8;
+            // 
+            // txtImpares
+            // 
+            this.txtImpares.Location = new System.Drawing.Point(145, 51);
+            this.txtImpares.Name = "txtImpares";
+            this.txtImpares.Size = new System.Drawing.Size(77, 20);
+            this.txtImpares.TabIndex = 7;
+            // 
+            // txtCantCifras
+            // 
+            this.txtCantCifras.Location = new System.Drawing.Point(145, 25);
+            this.txtCantCifras.Name = "txtCantCifras";
+            this.txtCantCifras.Size = new System.Drawing.Size(77, 20);
+            this.txtCantCifras.TabIndex = 6;
+            // 
+            // label7
+            // 
+            this.label7.AutoSize = true;
+            this.label7.Location = new System.Drawing.Point(5, 177);
+            this.label7.Name = "label7";
+            this.label7.Size = new System.Drawing.Size(66, 13);
+            this.label7.TabIndex = 5;
+            this.label7.Text = "Cifra menor: ";
+            // 
+            // label6
+            // 
+            this.label6.AutoSize = true;
+            this.label6.Location = new System.Drawing.Point(6, 147);
+            this.label6.Name = "label6";
+            this.label6.Size = new System.Drawing.Size(65, 13);
+            this.label6.TabIndex = 4;
+            this.label6.Text = "Cifra mayor: ";
+            // 
+            // label5
+            // 
+            this.label5.AutoSize = true;
+            this.label5.Location = new System.Drawing.Point(6, 116);
+            this.label5.Name = "label5";
+            this.label5.Size = new System.Drawing.Size(106, 13);
+            this.label5.TabIndex = 3;
+            this.label5.Text = "Suma total de cifras: ";
+            // 
+            // label4
+            // 
+            this.label4.AutoSize = true;
+            this.label4.Location = new System.Drawing.Point(6, 87);
+            this.label4.Name = "label4";
+            this.label4.Size = new System.Drawing.Size(112, 13);
+            this.label4.TabIndex = 2;
+            this.label4.Text = "Suma de cifras pares: ";
+            // 
+            // label3
+            // 
+            this.label3.AutoSize = true;
+            this.label3.Location = new System.Drawing.Point(6, 58);
+            this.label3.Name = "label3";
+            this.label3.Size = new System.Drawing.Size(122, 13);
+            this.label3.TabIndex = 1;
+            this.label3.Text = "Suma de cifras impares: ";
+            // 
+            // label2
+            // 
+            this.label2.AutoSize = true;
+            this.label2.Location = new System.Drawing.Point(6, 28);
+            this.label2.Name = "label2";
+            this.label2.Size = new System.Drawing.Size(98, 13);
+            this.label2.TabIndex = 0;
+            this.label2.Text = "Cantidad de cifras: ";
+            // 
             // groupBox3
             // 
             this.groupBox3.Controls.Add(this.listBox1);
@@ -92,6 +205,14 @@
             this.groupBox3.Size = new System.Drawing.Size(240, 208);
             this.groupBox3.TabIndex = 2;
             this.groupBox3.TabStop = false;
+            // 
+            // listBox1
+            // 
+            this.listBox1.FormattingEnabled = true;
+            this.listBox1.Location = new System.Drawing.Point(6, 19);
+            this.listBox1.Name = "listBox1";
+            this.listBox1.Size = new System.Drawing.Size(228, 173);
+            this.listBox1.TabIndex = 0;
             // 
             // btnLimpiar
             // 
@@ -111,127 +232,7 @@
             this.btnCancelar.TabIndex = 4;
             this.btnCancelar.Text = "Cancelar";
             this.btnCancelar.UseVisualStyleBackColor = true;
-            // 
-            // label1
-            // 
-            this.label1.AutoSize = true;
-            this.label1.Location = new System.Drawing.Point(6, 19);
-            this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(104, 13);
-            this.label1.TabIndex = 0;
-            this.label1.Text = "Ingresar un número: ";
-            // 
-            // txtNumero
-            // 
-            this.txtNumero.Location = new System.Drawing.Point(116, 16);
-            this.txtNumero.Name = "txtNumero";
-            this.txtNumero.Size = new System.Drawing.Size(106, 20);
-            this.txtNumero.TabIndex = 1;
-            this.txtNumero.Enter += new System.EventHandler(this.txtNumero_Enter);
-            // 
-            // label2
-            // 
-            this.label2.AutoSize = true;
-            this.label2.Location = new System.Drawing.Point(6, 28);
-            this.label2.Name = "label2";
-            this.label2.Size = new System.Drawing.Size(98, 13);
-            this.label2.TabIndex = 0;
-            this.label2.Text = "Cantidad de cifras: ";
-            // 
-            // label3
-            // 
-            this.label3.AutoSize = true;
-            this.label3.Location = new System.Drawing.Point(6, 58);
-            this.label3.Name = "label3";
-            this.label3.Size = new System.Drawing.Size(122, 13);
-            this.label3.TabIndex = 1;
-            this.label3.Text = "Suma de cifras impares: ";
-            // 
-            // label4
-            // 
-            this.label4.AutoSize = true;
-            this.label4.Location = new System.Drawing.Point(6, 87);
-            this.label4.Name = "label4";
-            this.label4.Size = new System.Drawing.Size(112, 13);
-            this.label4.TabIndex = 2;
-            this.label4.Text = "Suma de cifras pares: ";
-            // 
-            // label5
-            // 
-            this.label5.AutoSize = true;
-            this.label5.Location = new System.Drawing.Point(6, 116);
-            this.label5.Name = "label5";
-            this.label5.Size = new System.Drawing.Size(106, 13);
-            this.label5.TabIndex = 3;
-            this.label5.Text = "Suma total de cifras: ";
-            // 
-            // label6
-            // 
-            this.label6.AutoSize = true;
-            this.label6.Location = new System.Drawing.Point(6, 147);
-            this.label6.Name = "label6";
-            this.label6.Size = new System.Drawing.Size(65, 13);
-            this.label6.TabIndex = 4;
-            this.label6.Text = "Cifra mayor: ";
-            // 
-            // label7
-            // 
-            this.label7.AutoSize = true;
-            this.label7.Location = new System.Drawing.Point(5, 177);
-            this.label7.Name = "label7";
-            this.label7.Size = new System.Drawing.Size(66, 13);
-            this.label7.TabIndex = 5;
-            this.label7.Text = "Cifra menor: ";
-            // 
-            // listBox1
-            // 
-            this.listBox1.FormattingEnabled = true;
-            this.listBox1.Location = new System.Drawing.Point(6, 19);
-            this.listBox1.Name = "listBox1";
-            this.listBox1.Size = new System.Drawing.Size(228, 173);
-            this.listBox1.TabIndex = 0;
-            // 
-            // txtCantCifras
-            // 
-            this.txtCantCifras.Location = new System.Drawing.Point(145, 25);
-            this.txtCantCifras.Name = "txtCantCifras";
-            this.txtCantCifras.Size = new System.Drawing.Size(77, 20);
-            this.txtCantCifras.TabIndex = 6;
-            // 
-            // txtImpares
-            // 
-            this.txtImpares.Location = new System.Drawing.Point(145, 51);
-            this.txtImpares.Name = "txtImpares";
-            this.txtImpares.Size = new System.Drawing.Size(77, 20);
-            this.txtImpares.TabIndex = 7;
-            // 
-            // txtPares
-            // 
-            this.txtPares.Location = new System.Drawing.Point(145, 80);
-            this.txtPares.Name = "txtPares";
-            this.txtPares.Size = new System.Drawing.Size(77, 20);
-            this.txtPares.TabIndex = 8;
-            // 
-            // txtTotal
-            // 
-            this.txtTotal.Location = new System.Drawing.Point(145, 109);
-            this.txtTotal.Name = "txtTotal";
-            this.txtTotal.Size = new System.Drawing.Size(77, 20);
-            this.txtTotal.TabIndex = 9;
-            // 
-            // txtMayor
-            // 
-            this.txtMayor.Location = new System.Drawing.Point(145, 140);
-            this.txtMayor.Name = "txtMayor";
-            this.txtMayor.Size = new System.Drawing.Size(77, 20);
-            this.txtMayor.TabIndex = 10;
-            // 
-            // txtMenor
-            // 
-            this.txtMenor.Location = new System.Drawing.Point(145, 170);
-            this.txtMenor.Name = "txtMenor";
-            this.txtMenor.Size = new System.Drawing.Size(77, 20);
-            this.txtMenor.TabIndex = 11;
+            this.btnCancelar.Click += new System.EventHandler(this.btnCancelar_Click);
             // 
             // Form1
             // 
@@ -246,6 +247,7 @@
             this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
             this.Name = "Form1";
             this.Text = "Informacion del Numero";
+            this.Load += new System.EventHandler(this.Form1_Load);
             this.groupBox1.ResumeLayout(false);
             this.groupBox1.PerformLayout();
             this.groupBox2.ResumeLayout(false);
