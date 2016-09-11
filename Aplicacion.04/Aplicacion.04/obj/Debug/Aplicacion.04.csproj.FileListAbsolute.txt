@@ -7,3 +7,12 @@ C:\Users\usuario\Documents\Visual Studio 2012\Projects\Aplicacion.04\Aplicacion.
 C:\Users\usuario\Documents\Visual Studio 2012\Projects\Aplicacion.04\Aplicacion.04\obj\Debug\Aplicacion.04.csproj.GenerateResource.Cache
 C:\Users\usuario\Documents\Visual Studio 2012\Projects\Aplicacion.04\Aplicacion.04\obj\Debug\Aplicacion.04.exe
 C:\Users\usuario\Documents\Visual Studio 2012\Projects\Aplicacion.04\Aplicacion.04\obj\Debug\Aplicacion.04.pdb
+C:\Users\usuario\Documents\Visual Studio 2012\Projects\EjerciciosLab3\Aplicacion.04\Aplicacion.04\bin\Debug\Aplicacion.04.exe.config
+C:\Users\usuario\Documents\Visual Studio 2012\Projects\EjerciciosLab3\Aplicacion.04\Aplicacion.04\obj\Debug\Aplicacion.04.exe
+C:\Users\usuario\Documents\Visual Studio 2012\Projects\EjerciciosLab3\Aplicacion.04\Aplicacion.04\obj\Debug\Aplicacion.04.pdb
+C:\Users\usuario\Documents\Visual Studio 2012\Projects\EjerciciosLab3\Aplicacion.04\Aplicacion.04\bin\Debug\Aplicacion.04.exe
+C:\Users\usuario\Documents\Visual Studio 2012\Projects\EjerciciosLab3\Aplicacion.04\Aplicacion.04\bin\Debug\Aplicacion.04.pdb
+C:\Users\usuario\Documents\Visual Studio 2012\Projects\EjerciciosLab3\Aplicacion.04\Aplicacion.04\obj\Debug\Aplicacion.04.csprojResolveAssemblyReference.cache
+C:\Users\usuario\Documents\Visual Studio 2012\Projects\EjerciciosLab3\Aplicacion.04\Aplicacion.04\obj\Debug\Aplicacion._04.Form1.resources
+C:\Users\usuario\Documents\Visual Studio 2012\Projects\EjerciciosLab3\Aplicacion.04\Aplicacion.04\obj\Debug\Aplicacion._04.Properties.Resources.resources
+C:\Users\usuario\Documents\Visual Studio 2012\Projects\EjerciciosLab3\Aplicacion.04\Aplicacion.04\obj\Debug\Aplicacion.04.csproj.GenerateResource.Cache

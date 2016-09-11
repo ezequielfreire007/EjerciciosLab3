@@ -44,11 +44,6 @@ namespace Aplicacion._04
                 Array.Reverse(lista);
                 this.lstNumero.Items.Clear();
 
-               /* for (int i = 0; i < lista.Length; i++)
-                {
-                    this.lstNumero.Items.Add(lista[i]);
-                }*/
-
                 foreach (string item in lista)
                 {
                     this.lstNumero.Items.Add(item);

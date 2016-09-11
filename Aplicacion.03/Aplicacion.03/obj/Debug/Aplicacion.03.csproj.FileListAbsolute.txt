@@ -7,3 +7,6 @@ c:\users\usuario\documents\visual studio 2012\Projects\Aplicacion.03\Aplicacion.
 c:\users\usuario\documents\visual studio 2012\Projects\Aplicacion.03\Aplicacion.03\obj\Debug\Aplicacion.03.csproj.GenerateResource.Cache
 c:\users\usuario\documents\visual studio 2012\Projects\Aplicacion.03\Aplicacion.03\obj\Debug\Aplicacion.03.exe
 c:\users\usuario\documents\visual studio 2012\Projects\Aplicacion.03\Aplicacion.03\obj\Debug\Aplicacion.03.pdb
+C:\Users\usuario\Documents\Visual Studio 2012\Projects\EjerciciosLab3\Aplicacion.03\Aplicacion.03\bin\Debug\Aplicacion.03.exe.config
+C:\Users\usuario\Documents\Visual Studio 2012\Projects\EjerciciosLab3\Aplicacion.03\Aplicacion.03\obj\Debug\Aplicacion.03.exe
+C:\Users\usuario\Documents\Visual Studio 2012\Projects\EjerciciosLab3\Aplicacion.03\Aplicacion.03\obj\Debug\Aplicacion.03.pdb
