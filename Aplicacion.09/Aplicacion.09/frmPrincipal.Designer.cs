@@ -29,21 +29,23 @@
         private void InitializeComponent()
         {
             this.menuStrip1 = new System.Windows.Forms.MenuStrip();
-            this.vehiculosToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
-            this.gestionDiariaToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
-            this.salirDelSistemaToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
-            this.informacionToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
-            this.acercaDeToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.vehiculosToolStripMenuItem1 = new System.Windows.Forms.ToolStripMenuItem();
             this.gestionDiariaToolStripMenuItem1 = new System.Windows.Forms.ToolStripMenuItem();
             this.salirToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.informacionToolStripMenuItem1 = new System.Windows.Forms.ToolStripMenuItem();
             this.acercaDeToolStripMenuItem1 = new System.Windows.Forms.ToolStripMenuItem();
+            this.vehiculosToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.gestionDiariaToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.salirDelSistemaToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.informacionToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.acercaDeToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.menuStrip1.SuspendLayout();
             this.SuspendLayout();
             // 
             // menuStrip1
             // 
+            this.menuStrip1.AllowMerge = false;
+            this.menuStrip1.GripStyle = System.Windows.Forms.ToolStripGripStyle.Visible;
             this.menuStrip1.Items.AddRange(new System.Windows.Forms.ToolStripItem[] {
             this.vehiculosToolStripMenuItem1,
             this.gestionDiariaToolStripMenuItem1,
@@ -54,6 +56,40 @@
             this.menuStrip1.Size = new System.Drawing.Size(713, 24);
             this.menuStrip1.TabIndex = 0;
             this.menuStrip1.Text = "menuStrip1";
+            // 
+            // vehiculosToolStripMenuItem1
+            // 
+            this.vehiculosToolStripMenuItem1.Name = "vehiculosToolStripMenuItem1";
+            this.vehiculosToolStripMenuItem1.Size = new System.Drawing.Size(70, 20);
+            this.vehiculosToolStripMenuItem1.Text = "Vehiculos";
+            this.vehiculosToolStripMenuItem1.Click += new System.EventHandler(this.vehiculosToolStripMenuItem1_Click);
+            // 
+            // gestionDiariaToolStripMenuItem1
+            // 
+            this.gestionDiariaToolStripMenuItem1.Name = "gestionDiariaToolStripMenuItem1";
+            this.gestionDiariaToolStripMenuItem1.Size = new System.Drawing.Size(92, 20);
+            this.gestionDiariaToolStripMenuItem1.Text = "Gestion Diaria";
+            // 
+            // salirToolStripMenuItem
+            // 
+            this.salirToolStripMenuItem.Name = "salirToolStripMenuItem";
+            this.salirToolStripMenuItem.Size = new System.Drawing.Size(104, 20);
+            this.salirToolStripMenuItem.Text = "Salir del Sistema";
+            // 
+            // informacionToolStripMenuItem1
+            // 
+            this.informacionToolStripMenuItem1.DropDownItems.AddRange(new System.Windows.Forms.ToolStripItem[] {
+            this.acercaDeToolStripMenuItem1});
+            this.informacionToolStripMenuItem1.Name = "informacionToolStripMenuItem1";
+            this.informacionToolStripMenuItem1.Size = new System.Drawing.Size(84, 20);
+            this.informacionToolStripMenuItem1.Text = "Informacion";
+            // 
+            // acercaDeToolStripMenuItem1
+            // 
+            this.acercaDeToolStripMenuItem1.Name = "acercaDeToolStripMenuItem1";
+            this.acercaDeToolStripMenuItem1.Size = new System.Drawing.Size(126, 22);
+            this.acercaDeToolStripMenuItem1.Text = "Acerca de";
+            this.acercaDeToolStripMenuItem1.Click += new System.EventHandler(this.acercaDeToolStripMenuItem1_Click);
             // 
             // vehiculosToolStripMenuItem
             // 
@@ -84,39 +120,6 @@
             this.acercaDeToolStripMenuItem.Name = "acercaDeToolStripMenuItem";
             this.acercaDeToolStripMenuItem.Size = new System.Drawing.Size(152, 22);
             this.acercaDeToolStripMenuItem.Text = "Acerca de";
-            // 
-            // vehiculosToolStripMenuItem1
-            // 
-            this.vehiculosToolStripMenuItem1.Name = "vehiculosToolStripMenuItem1";
-            this.vehiculosToolStripMenuItem1.Size = new System.Drawing.Size(70, 20);
-            this.vehiculosToolStripMenuItem1.Text = "Vehiculos";
-            // 
-            // gestionDiariaToolStripMenuItem1
-            // 
-            this.gestionDiariaToolStripMenuItem1.Name = "gestionDiariaToolStripMenuItem1";
-            this.gestionDiariaToolStripMenuItem1.Size = new System.Drawing.Size(92, 20);
-            this.gestionDiariaToolStripMenuItem1.Text = "Gestion Diaria";
-            // 
-            // salirToolStripMenuItem
-            // 
-            this.salirToolStripMenuItem.Name = "salirToolStripMenuItem";
-            this.salirToolStripMenuItem.Size = new System.Drawing.Size(104, 20);
-            this.salirToolStripMenuItem.Text = "Salir del Sistema";
-            // 
-            // informacionToolStripMenuItem1
-            // 
-            this.informacionToolStripMenuItem1.DropDownItems.AddRange(new System.Windows.Forms.ToolStripItem[] {
-            this.acercaDeToolStripMenuItem1});
-            this.informacionToolStripMenuItem1.Name = "informacionToolStripMenuItem1";
-            this.informacionToolStripMenuItem1.Size = new System.Drawing.Size(84, 20);
-            this.informacionToolStripMenuItem1.Text = "Informacion";
-            // 
-            // acercaDeToolStripMenuItem1
-            // 
-            this.acercaDeToolStripMenuItem1.Name = "acercaDeToolStripMenuItem1";
-            this.acercaDeToolStripMenuItem1.Size = new System.Drawing.Size(152, 22);
-            this.acercaDeToolStripMenuItem1.Text = "Acerca de";
-            this.acercaDeToolStripMenuItem1.Click += new System.EventHandler(this.acercaDeToolStripMenuItem1_Click);
             // 
             // frmPrincipal
             // 

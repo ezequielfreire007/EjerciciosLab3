@@ -1,10 +1,15 @@
 C:\Users\usuario\Documents\Visual Studio 2012\Projects\EjerciciosLab3\Aplicacion.09\Aplicacion.09\bin\Debug\Aplicacion.09.exe.config
 C:\Users\usuario\Documents\Visual Studio 2012\Projects\EjerciciosLab3\Aplicacion.09\Aplicacion.09\bin\Debug\Aplicacion.09.exe
 C:\Users\usuario\Documents\Visual Studio 2012\Projects\EjerciciosLab3\Aplicacion.09\Aplicacion.09\bin\Debug\Aplicacion.09.pdb
-C:\Users\usuario\Documents\Visual Studio 2012\Projects\EjerciciosLab3\Aplicacion.09\Aplicacion.09\obj\Debug\Aplicacion.09.csprojResolveAssemblyReference.cache
+C:\Users\usuario\Documents\Visual Studio 2012\Projects\EjerciciosLab3\Aplicacion.09\Aplicacion.09\obj\Debug\Aplicacion._09.AboutBox1.resources
+C:\Users\usuario\Documents\Visual Studio 2012\Projects\EjerciciosLab3\Aplicacion.09\Aplicacion.09\obj\Debug\Aplicacion._09.frmGestionAutomovil.resources
 C:\Users\usuario\Documents\Visual Studio 2012\Projects\EjerciciosLab3\Aplicacion.09\Aplicacion.09\obj\Debug\Aplicacion._09.frmPrincipal.resources
 C:\Users\usuario\Documents\Visual Studio 2012\Projects\EjerciciosLab3\Aplicacion.09\Aplicacion.09\obj\Debug\Aplicacion._09.Properties.Resources.resources
 C:\Users\usuario\Documents\Visual Studio 2012\Projects\EjerciciosLab3\Aplicacion.09\Aplicacion.09\obj\Debug\Aplicacion.09.csproj.GenerateResource.Cache
 C:\Users\usuario\Documents\Visual Studio 2012\Projects\EjerciciosLab3\Aplicacion.09\Aplicacion.09\obj\Debug\Aplicacion.09.exe
 C:\Users\usuario\Documents\Visual Studio 2012\Projects\EjerciciosLab3\Aplicacion.09\Aplicacion.09\obj\Debug\Aplicacion.09.pdb
-C:\Users\usuario\Documents\Visual Studio 2012\Projects\EjerciciosLab3\Aplicacion.09\Aplicacion.09\obj\Debug\Aplicacion._09.AboutBox1.resources
+C:\Users\usuario\Documents\Visual Studio 2012\Projects\EjerciciosLab3\Aplicacion.09\Aplicacion.09\obj\Debug\Aplicacion.09.csprojResolveAssemblyReference.cache
+C:\Users\usuario\Documents\Visual Studio 2012\Projects\EjerciciosLab3\Aplicacion.09\Aplicacion.09\bin\Debug\Entities.dll
+C:\Users\usuario\Documents\Visual Studio 2012\Projects\EjerciciosLab3\Aplicacion.09\Aplicacion.09\bin\Debug\Entities.pdb
+C:\Users\usuario\Documents\Visual Studio 2012\Projects\EjerciciosLab3\Aplicacion.09\Aplicacion.09\obj\Debug\Aplicacion._09.frmVehiculo.resources
+C:\Users\usuario\Documents\Visual Studio 2012\Projects\EjerciciosLab3\Aplicacion.09\Aplicacion.09\obj\Debug\Aplicacion._09.frmAuto.resources
