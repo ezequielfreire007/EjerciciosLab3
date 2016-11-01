@@ -1,0 +1,13 @@
+C:\Users\usuario\Documents\Visual Studio 2012\Projects\EjerciciosLab3\ParimerParcialMascotas\ParimerParcialMascotas\bin\Debug\ParimerParcialMascotas.exe.config
+C:\Users\usuario\Documents\Visual Studio 2012\Projects\EjerciciosLab3\ParimerParcialMascotas\ParimerParcialMascotas\obj\Debug\ParimerParcialMascotas.frmAnimal.resources
+C:\Users\usuario\Documents\Visual Studio 2012\Projects\EjerciciosLab3\ParimerParcialMascotas\ParimerParcialMascotas\obj\Debug\ParimerParcialMascotas.frmMascota.resources
+C:\Users\usuario\Documents\Visual Studio 2012\Projects\EjerciciosLab3\ParimerParcialMascotas\ParimerParcialMascotas\obj\Debug\ParimerParcialMascotas.frmPrincipal.resources
+C:\Users\usuario\Documents\Visual Studio 2012\Projects\EjerciciosLab3\ParimerParcialMascotas\ParimerParcialMascotas\obj\Debug\ParimerParcialMascotas.Properties.Resources.resources
+C:\Users\usuario\Documents\Visual Studio 2012\Projects\EjerciciosLab3\ParimerParcialMascotas\ParimerParcialMascotas\obj\Debug\ParimerParcialMascotas.csproj.GenerateResource.Cache
+C:\Users\usuario\Documents\Visual Studio 2012\Projects\EjerciciosLab3\ParimerParcialMascotas\ParimerParcialMascotas\bin\Debug\ParimerParcialMascotas.exe
+C:\Users\usuario\Documents\Visual Studio 2012\Projects\EjerciciosLab3\ParimerParcialMascotas\ParimerParcialMascotas\bin\Debug\ParimerParcialMascotas.pdb
+C:\Users\usuario\Documents\Visual Studio 2012\Projects\EjerciciosLab3\ParimerParcialMascotas\ParimerParcialMascotas\obj\Debug\ParimerParcialMascotas.exe
+C:\Users\usuario\Documents\Visual Studio 2012\Projects\EjerciciosLab3\ParimerParcialMascotas\ParimerParcialMascotas\obj\Debug\ParimerParcialMascotas.pdb
+C:\Users\usuario\Documents\Visual Studio 2012\Projects\EjerciciosLab3\ParimerParcialMascotas\ParimerParcialMascotas\bin\Debug\Entities.dll
+C:\Users\usuario\Documents\Visual Studio 2012\Projects\EjerciciosLab3\ParimerParcialMascotas\ParimerParcialMascotas\bin\Debug\Entities.pdb
+C:\Users\usuario\Documents\Visual Studio 2012\Projects\EjerciciosLab3\ParimerParcialMascotas\ParimerParcialMascotas\obj\Debug\ParimerParcialMascotas.csprojResolveAssemblyReference.cache

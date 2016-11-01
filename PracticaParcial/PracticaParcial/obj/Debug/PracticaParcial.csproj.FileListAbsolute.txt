@@ -1,0 +1,13 @@
+C:\Users\usuario\Documents\Visual Studio 2012\Projects\EjerciciosLab3\PracticaParcial\PracticaParcial\bin\Debug\PracticaParcial.exe.config
+C:\Users\usuario\Documents\Visual Studio 2012\Projects\EjerciciosLab3\PracticaParcial\PracticaParcial\bin\Debug\PracticaParcial.exe
+C:\Users\usuario\Documents\Visual Studio 2012\Projects\EjerciciosLab3\PracticaParcial\PracticaParcial\bin\Debug\PracticaParcial.pdb
+C:\Users\usuario\Documents\Visual Studio 2012\Projects\EjerciciosLab3\PracticaParcial\PracticaParcial\bin\Debug\Entities.dll
+C:\Users\usuario\Documents\Visual Studio 2012\Projects\EjerciciosLab3\PracticaParcial\PracticaParcial\bin\Debug\Entities.pdb
+C:\Users\usuario\Documents\Visual Studio 2012\Projects\EjerciciosLab3\PracticaParcial\PracticaParcial\obj\Debug\PracticaParcial.csprojResolveAssemblyReference.cache
+C:\Users\usuario\Documents\Visual Studio 2012\Projects\EjerciciosLab3\PracticaParcial\PracticaParcial\obj\Debug\PracticaParcial.frmAnimal.resources
+C:\Users\usuario\Documents\Visual Studio 2012\Projects\EjerciciosLab3\PracticaParcial\PracticaParcial\obj\Debug\PracticaParcial.frmMascota.resources
+C:\Users\usuario\Documents\Visual Studio 2012\Projects\EjerciciosLab3\PracticaParcial\PracticaParcial\obj\Debug\PracticaParcial.frmPrincipal.resources
+C:\Users\usuario\Documents\Visual Studio 2012\Projects\EjerciciosLab3\PracticaParcial\PracticaParcial\obj\Debug\PracticaParcial.Properties.Resources.resources
+C:\Users\usuario\Documents\Visual Studio 2012\Projects\EjerciciosLab3\PracticaParcial\PracticaParcial\obj\Debug\PracticaParcial.csproj.GenerateResource.Cache
+C:\Users\usuario\Documents\Visual Studio 2012\Projects\EjerciciosLab3\PracticaParcial\PracticaParcial\obj\Debug\PracticaParcial.exe
+C:\Users\usuario\Documents\Visual Studio 2012\Projects\EjerciciosLab3\PracticaParcial\PracticaParcial\obj\Debug\PracticaParcial.pdb

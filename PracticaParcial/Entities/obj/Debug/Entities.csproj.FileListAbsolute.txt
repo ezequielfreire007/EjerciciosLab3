@@ -1,0 +1,5 @@
+C:\Users\usuario\Documents\Visual Studio 2012\Projects\EjerciciosLab3\PracticaParcial\Entities\bin\Debug\Entities.dll
+C:\Users\usuario\Documents\Visual Studio 2012\Projects\EjerciciosLab3\PracticaParcial\Entities\bin\Debug\Entities.pdb
+C:\Users\usuario\Documents\Visual Studio 2012\Projects\EjerciciosLab3\PracticaParcial\Entities\obj\Debug\Entities.dll
+C:\Users\usuario\Documents\Visual Studio 2012\Projects\EjerciciosLab3\PracticaParcial\Entities\obj\Debug\Entities.pdb
+C:\Users\usuario\Documents\Visual Studio 2012\Projects\EjerciciosLab3\PracticaParcial\Entities\obj\Debug\Entities.csprojResolveAssemblyReference.cache

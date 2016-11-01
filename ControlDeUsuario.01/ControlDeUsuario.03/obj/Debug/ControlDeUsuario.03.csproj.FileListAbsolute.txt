@@ -1,0 +1,11 @@
+C:\Users\usuario\Documents\Visual Studio 2012\Projects\EjerciciosLab3\ControlDeUsuario.01\ControlDeUsuario.03\bin\Debug\ControlDeUsuario.03.exe.config
+C:\Users\usuario\Documents\Visual Studio 2012\Projects\EjerciciosLab3\ControlDeUsuario.01\ControlDeUsuario.03\bin\Debug\ControlDeUsuario.03.exe
+C:\Users\usuario\Documents\Visual Studio 2012\Projects\EjerciciosLab3\ControlDeUsuario.01\ControlDeUsuario.03\bin\Debug\ControlDeUsuario.03.pdb
+C:\Users\usuario\Documents\Visual Studio 2012\Projects\EjerciciosLab3\ControlDeUsuario.01\ControlDeUsuario.03\bin\Debug\Entities.dll
+C:\Users\usuario\Documents\Visual Studio 2012\Projects\EjerciciosLab3\ControlDeUsuario.01\ControlDeUsuario.03\bin\Debug\Entities.pdb
+C:\Users\usuario\Documents\Visual Studio 2012\Projects\EjerciciosLab3\ControlDeUsuario.01\ControlDeUsuario.03\obj\Debug\ControlDeUsuario._03.Properties.Resources.resources
+C:\Users\usuario\Documents\Visual Studio 2012\Projects\EjerciciosLab3\ControlDeUsuario.01\ControlDeUsuario.03\obj\Debug\ControlDeUsuario.03.csproj.GenerateResource.Cache
+C:\Users\usuario\Documents\Visual Studio 2012\Projects\EjerciciosLab3\ControlDeUsuario.01\ControlDeUsuario.03\obj\Debug\ControlDeUsuario.03.exe
+C:\Users\usuario\Documents\Visual Studio 2012\Projects\EjerciciosLab3\ControlDeUsuario.01\ControlDeUsuario.03\obj\Debug\ControlDeUsuario.03.pdb
+C:\Users\usuario\Documents\Visual Studio 2012\Projects\EjerciciosLab3\ControlDeUsuario.01\ControlDeUsuario.03\obj\Debug\ControlDeUsuario.03.csprojResolveAssemblyReference.cache
+C:\Users\usuario\Documents\Visual Studio 2012\Projects\EjerciciosLab3\ControlDeUsuario.01\ControlDeUsuario.03\obj\Debug\ControlDeUsuario._03.Form1.resources

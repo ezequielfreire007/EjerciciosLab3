@@ -1,0 +1,4 @@
+Edad: 12 Nombre: aaa Tipo: exotica
+Edad: 433 Nombre: ggg Tipo: exotica
+Edad: 5 Nombre: jj Tipo: exotica
+Edad: 33 Nombre: pedro Tipo: horagareña
