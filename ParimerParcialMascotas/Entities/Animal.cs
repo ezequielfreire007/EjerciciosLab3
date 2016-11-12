@@ -16,6 +16,7 @@ namespace Entities
         public int Edad
         {
             get { return this._edad; }
+            set { this._edad = value; }
         }
         #endregion
 

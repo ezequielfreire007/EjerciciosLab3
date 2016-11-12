@@ -33,7 +33,7 @@
             this.bajaToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.modificacionToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.salirToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
-            this.toolStripComboBox1 = new System.Windows.Forms.ToolStripComboBox();
+            this.toolStripCmbOrdenar = new System.Windows.Forms.ToolStripComboBox();
             this.lstMascotas = new System.Windows.Forms.ListBox();
             this.menuStrip1.SuspendLayout();
             this.SuspendLayout();
@@ -45,7 +45,7 @@
             this.bajaToolStripMenuItem,
             this.modificacionToolStripMenuItem,
             this.salirToolStripMenuItem,
-            this.toolStripComboBox1});
+            this.toolStripCmbOrdenar});
             this.menuStrip1.Location = new System.Drawing.Point(0, 0);
             this.menuStrip1.Name = "menuStrip1";
             this.menuStrip1.Size = new System.Drawing.Size(545, 27);
@@ -76,11 +76,13 @@
             this.salirToolStripMenuItem.Name = "salirToolStripMenuItem";
             this.salirToolStripMenuItem.Size = new System.Drawing.Size(41, 23);
             this.salirToolStripMenuItem.Text = "Salir";
+            this.salirToolStripMenuItem.Click += new System.EventHandler(this.salirToolStripMenuItem_Click);
             // 
-            // toolStripComboBox1
+            // toolStripCmbOrdenar
             // 
-            this.toolStripComboBox1.Name = "toolStripComboBox1";
-            this.toolStripComboBox1.Size = new System.Drawing.Size(121, 23);
+            this.toolStripCmbOrdenar.Name = "toolStripCmbOrdenar";
+            this.toolStripCmbOrdenar.Size = new System.Drawing.Size(121, 23);
+            this.toolStripCmbOrdenar.SelectedIndexChanged += new System.EventHandler(this.toolStripCmbOrdenar_SelectedIndexChanged);
             // 
             // lstMascotas
             // 
@@ -89,6 +91,7 @@
             this.lstMascotas.Name = "lstMascotas";
             this.lstMascotas.Size = new System.Drawing.Size(521, 368);
             this.lstMascotas.TabIndex = 1;
+            this.lstMascotas.SelectedIndexChanged += new System.EventHandler(this.lstMascotas_SelectedIndexChanged);
             // 
             // frmPrincipal
             // 
@@ -100,6 +103,8 @@
             this.MainMenuStrip = this.menuStrip1;
             this.Name = "frmPrincipal";
             this.Text = "ABM Mascota";
+            this.FormClosing += new System.Windows.Forms.FormClosingEventHandler(this.frmPrincipal_FormClosing);
+            this.Load += new System.EventHandler(this.frmPrincipal_Load);
             this.menuStrip1.ResumeLayout(false);
             this.menuStrip1.PerformLayout();
             this.ResumeLayout(false);
@@ -114,7 +119,7 @@
         private System.Windows.Forms.ToolStripMenuItem bajaToolStripMenuItem;
         private System.Windows.Forms.ToolStripMenuItem modificacionToolStripMenuItem;
         private System.Windows.Forms.ToolStripMenuItem salirToolStripMenuItem;
-        private System.Windows.Forms.ToolStripComboBox toolStripComboBox1;
+        private System.Windows.Forms.ToolStripComboBox toolStripCmbOrdenar;
         private System.Windows.Forms.ListBox lstMascotas;
     }
 }

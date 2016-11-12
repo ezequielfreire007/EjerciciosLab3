@@ -17,11 +17,13 @@ namespace Entities
         public String Nombre
         {
             get { return this._nombre; }
+            set { this._nombre = value; }
         }
 
         public eTipoDeMascota TipoDeMascota
         {
             get { return this._tipoDeMascota; }
+            set { this._tipoDeMascota = value; }
         }
         #endregion
 

@@ -29,9 +29,9 @@
         private void InitializeComponent()
         {
             this.label1 = new System.Windows.Forms.Label();
-            this.txtEdad = new System.Windows.Forms.TextBox();
             this.btnAceptar = new System.Windows.Forms.Button();
             this.btnCancelar = new System.Windows.Forms.Button();
+            this.txtEdad = new Entities.TextSelect();
             this.SuspendLayout();
             // 
             // label1
@@ -42,13 +42,6 @@
             this.label1.Size = new System.Drawing.Size(38, 13);
             this.label1.TabIndex = 0;
             this.label1.Text = "Edad: ";
-            // 
-            // txtEdad
-            // 
-            this.txtEdad.Location = new System.Drawing.Point(77, 53);
-            this.txtEdad.Name = "txtEdad";
-            this.txtEdad.Size = new System.Drawing.Size(137, 20);
-            this.txtEdad.TabIndex = 1;
             // 
             // btnAceptar
             // 
@@ -70,14 +63,22 @@
             this.btnCancelar.UseVisualStyleBackColor = true;
             this.btnCancelar.Click += new System.EventHandler(this.btnCancelar_Click);
             // 
+            // txtEdad
+            // 
+            this.txtEdad.Location = new System.Drawing.Point(77, 54);
+            this.txtEdad.Name = "txtEdad";
+            this.txtEdad.Size = new System.Drawing.Size(137, 20);
+            this.txtEdad.TabIndex = 4;
+            this.txtEdad.tipo = Entities.TipoDeDato.SoloNumeros;
+            // 
             // frmAnimal
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(284, 285);
+            this.Controls.Add(this.txtEdad);
             this.Controls.Add(this.btnCancelar);
             this.Controls.Add(this.btnAceptar);
-            this.Controls.Add(this.txtEdad);
             this.Controls.Add(this.label1);
             this.Name = "frmAnimal";
             this.Text = "frmAnimal";
@@ -91,6 +92,6 @@
         private System.Windows.Forms.Label label1;
         public System.Windows.Forms.Button btnAceptar;
         public System.Windows.Forms.Button btnCancelar;
-        protected System.Windows.Forms.TextBox txtEdad;
+        protected Entities.TextSelect txtEdad;
     }
 }
