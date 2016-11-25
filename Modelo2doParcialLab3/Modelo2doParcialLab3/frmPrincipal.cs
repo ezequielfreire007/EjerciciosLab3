@@ -225,12 +225,12 @@ namespace Modelo2doParcialLab3
                     if ((int)item["Legajo"] == frmLegajo.Legajo)
                     {
                         alumnoBorrar = new Alumno(item["Apellido"].ToString(),(int)item["Curso"], (int)item["Legajo"]);
-                        MessageBox.Show("El legajo se encuentra en la base");
 
                         frmAlumno frmAlumnoBorrar = new frmAlumno(alumnoBorrar, this._dataSetAlumnos_Cursos.Tables["Cursos"]);
 
                         if (frmAlumnoBorrar.ShowDialog() == System.Windows.Forms.DialogResult.OK)
                         {
+                            MessageBox.Show("El legajo se encuentra en la base");
                             item.Delete();
                         }
                     }
@@ -239,8 +239,39 @@ namespace Modelo2doParcialLab3
                         MessageBox.Show("El legajo no se encuentra en la base");
                     }
                 }
+            }
+        }
 
-               
+        private void modificacionToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            frmLegajo frmLegajo = new frmLegajo();
+
+            if (frmLegajo.ShowDialog() == System.Windows.Forms.DialogResult.OK)
+            {
+
+                Alumno alumnoMod;
+
+                foreach (DataRow item in this._dataSetAlumnos_Cursos.Tables["Alumnos"].Rows)
+                {
+                    if ((int)item["Legajo"] == frmLegajo.Legajo)
+                    {
+                        alumnoMod = new Alumno(item["Apellido"].ToString(), (int)item["Curso"], (int)item["Legajo"]);
+
+                        frmAlumno frmAlumnoMod = new frmAlumno(alumnoMod, this._dataSetAlumnos_Cursos.Tables["Cursos"]);
+
+                        if (frmAlumnoMod.ShowDialog() == System.Windows.Forms.DialogResult.OK)
+                        {
+                            MessageBox.Show("El legajo se encuentra en la base");
+                            item["Legajo"] = frmAlumnoMod.UnAlumno.Legajo;
+                            item["Apellido"] = frmAlumnoMod.UnAlumno.Apellido;
+                            item["Curso"] = frmAlumnoMod.UnAlumno.Curso;
+                        }
+                    }
+                    else
+                    {
+                        MessageBox.Show("El legajo no se encuentra en la base");
+                    }
+                }
             }
         }
 
