@@ -1,0 +1,16 @@
+C:\Users\usuario\Documents\Visual Studio 2012\Projects\EjerciciosLab3\Modelo2doParcialLab3\Modelo2doParcialLab3\bin\Debug\Modelo2doParcialLab3.exe.config
+C:\Users\usuario\Documents\Visual Studio 2012\Projects\EjerciciosLab3\Modelo2doParcialLab3\Modelo2doParcialLab3\bin\Debug\Modelo2doParcialLab3.exe
+C:\Users\usuario\Documents\Visual Studio 2012\Projects\EjerciciosLab3\Modelo2doParcialLab3\Modelo2doParcialLab3\bin\Debug\Modelo2doParcialLab3.pdb
+C:\Users\usuario\Documents\Visual Studio 2012\Projects\EjerciciosLab3\Modelo2doParcialLab3\Modelo2doParcialLab3\bin\Debug\Entities.dll
+C:\Users\usuario\Documents\Visual Studio 2012\Projects\EjerciciosLab3\Modelo2doParcialLab3\Modelo2doParcialLab3\bin\Debug\Entities.pdb
+C:\Users\usuario\Documents\Visual Studio 2012\Projects\EjerciciosLab3\Modelo2doParcialLab3\Modelo2doParcialLab3\obj\Debug\Modelo2doParcialLab3.csprojResolveAssemblyReference.cache
+C:\Users\usuario\Documents\Visual Studio 2012\Projects\EjerciciosLab3\Modelo2doParcialLab3\Modelo2doParcialLab3\obj\Debug\Modelo2doParcialLab3.frmAlumno.resources
+C:\Users\usuario\Documents\Visual Studio 2012\Projects\EjerciciosLab3\Modelo2doParcialLab3\Modelo2doParcialLab3\obj\Debug\Modelo2doParcialLab3.frmPrincipal.resources
+C:\Users\usuario\Documents\Visual Studio 2012\Projects\EjerciciosLab3\Modelo2doParcialLab3\Modelo2doParcialLab3\obj\Debug\Modelo2doParcialLab3.Properties.Resources.resources
+C:\Users\usuario\Documents\Visual Studio 2012\Projects\EjerciciosLab3\Modelo2doParcialLab3\Modelo2doParcialLab3\obj\Debug\Modelo2doParcialLab3.csproj.GenerateResource.Cache
+C:\Users\usuario\Documents\Visual Studio 2012\Projects\EjerciciosLab3\Modelo2doParcialLab3\Modelo2doParcialLab3\obj\Debug\Modelo2doParcialLab3.exe
+C:\Users\usuario\Documents\Visual Studio 2012\Projects\EjerciciosLab3\Modelo2doParcialLab3\Modelo2doParcialLab3\obj\Debug\Modelo2doParcialLab3.pdb
+C:\Users\usuario\Documents\Visual Studio 2012\Projects\EjerciciosLab3\Modelo2doParcialLab3\Modelo2doParcialLab3\obj\Debug\Modelo2doParcialLab3.frmMostrar.resources
+C:\Users\usuario\Documents\Visual Studio 2012\Projects\EjerciciosLab3\Modelo2doParcialLab3\Modelo2doParcialLab3\obj\Debug\Interop.EnvDTE.dll
+C:\Users\usuario\Documents\Visual Studio 2012\Projects\EjerciciosLab3\Modelo2doParcialLab3\Modelo2doParcialLab3\obj\Debug\Modelo2doParcialLab3.csproj.ResolveComReference.cache
+C:\Users\usuario\Documents\Visual Studio 2012\Projects\EjerciciosLab3\Modelo2doParcialLab3\Modelo2doParcialLab3\obj\Debug\Modelo2doParcialLab3.frmLegajo.resources

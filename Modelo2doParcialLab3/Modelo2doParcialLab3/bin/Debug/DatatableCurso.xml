@@ -1,0 +1,18 @@
+<?xml version="1.0" standalone="yes"?>
+<DocumentElement>
+  <Cursos>
+    <Codigo>1000</Codigo>
+    <Duracion>3</Duracion>
+    <Nombre>CSHARP</Nombre>
+  </Cursos>
+  <Cursos>
+    <Codigo>1005</Codigo>
+    <Duracion>4</Duracion>
+    <Nombre>VBNet</Nombre>
+  </Cursos>
+  <Cursos>
+    <Codigo>1010</Codigo>
+    <Duracion>5</Duracion>
+    <Nombre>PHP</Nombre>
+  </Cursos>
+</DocumentElement>
